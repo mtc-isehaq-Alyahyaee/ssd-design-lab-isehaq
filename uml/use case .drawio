@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name=" UseCase.drawio" id="pKzmIV828wm5BCjQkSNc">
+    <mxGraphModel dx="1587" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jM4iArq942v9yCLT_PKj-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="390" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jM4iArq942v9yCLT_PKj-9" edge="1" parent="1" source="jM4iArq942v9yCLT_PKj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jM4iArq942v9yCLT_PKj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jM4iArq942v9yCLT_PKj-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="student&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="30" x="190" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jM4iArq942v9yCLT_PKj-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="105" x="425" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jM4iArq942v9yCLT_PKj-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Register Course" vertex="1">
+          <mxGeometry height="30" width="60" x="447.5" y="145" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
